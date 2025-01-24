@@ -1,0 +1,39 @@
+/*Dette er bare en kommentar som forklarer hva jeg tenker. 
+Overskrift H1=
+Overskrift H2=
+Overskrift H3=
+Usortert liste=
+Sortert liste=
+Størrelse på bildene=
+Fonter=
+
+*/
+h1{
+    color: rebeccapurple;
+    font-weight: 900;
+    font-size: 20px;
+    }
+h2{
+color: chocolate;
+font-weight: 400;
+font-size: 16px;
+}
+h3{
+    color: blueviolet;
+    font-weight: 200;
+    font-size: 14px;
+}
+ul{
+    font-size: 10px;
+    font-weight: 900;
+    color:fuchsia;
+}
+ol{
+font-size: 10px;
+font-weight: 900;
+color:brown
+}
+body{
+    background-color: darkkhaki;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
